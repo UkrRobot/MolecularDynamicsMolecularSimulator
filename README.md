@@ -19,4 +19,4 @@ Recommended Experiments
 6. Elaborate the void for definition of the velocity auto-correlation function and provide a calculation of the self-diffusion coefficient using the autocorrelation function. 
 7. Develop the void for the system thermostatic control. Define the “melting” temperature for the system that contacts with the thermostat.
 
-![alt text](https://github.com/UkrRobot/MonteCarloMolecularSimulator/blob/master/MolecularDynamicsScrn.png)
+![alt text](https://github.com/UkrRobot/MolecularDynamicsMolecularSimulator/blob/master/MolecularDynamicsScrn.png)
