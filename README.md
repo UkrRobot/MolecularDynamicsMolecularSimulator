@@ -20,3 +20,5 @@ Recommended Experiments
 7. Develop the void for the system thermostatic control. Define the “melting” temperature for the system that contacts with the thermostat.
 
 ![alt text](https://github.com/UkrRobot/MolecularDynamicsMolecularSimulator/blob/master/MolecularDynamicsScrn.png)
+
+This program was developed under the guidance of Professor A. Ovrutsky.
